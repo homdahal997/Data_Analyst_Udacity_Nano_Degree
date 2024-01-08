@@ -7,7 +7,7 @@
 
 This repository contains resources and solution of the quizzes given and asked in UDACITY DATA ANALYST Certification.
 
-# Course materials covered in this nano degree program are as follows: 
+# Course materials covered in this nano degree program are as follows-
 
 1. The Data Analysis Process
 2. Jupyter Notebooks

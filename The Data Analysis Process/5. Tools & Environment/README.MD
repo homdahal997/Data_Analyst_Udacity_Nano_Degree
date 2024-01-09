@@ -1,0 +1,4 @@
+# Jupyter Notebooks Introduction
+We are aquainted with NumPy, pandas, and Matplotlib, the primary packages central to this course. Now, the question arises: how do we consolidate all these tools into a cohesive environment? The upcoming lesson will introduce you to Jupyter Notebooks, our chosen platform for learning throughout this course.
+
+In the subsequent lesson, you will explore the Jupyter Notebook interface, often referred to as an Integrated Development Environment (IDE). Within the Jupyter interface, you'll gain insights into navigating, creating, and editing the code essential for your analyses. Additionally, you'll acquire knowledge on enhancing reports through Markdown and, eventually, discover how to convert your Notebooks into scripts for reproducibility and deployment in a production environment.
